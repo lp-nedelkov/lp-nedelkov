@@ -5,9 +5,10 @@ skills. Furthermore, I have been exploring technologies such as
 Maven, SpringBoot and ORM via Spring Data JPA by developing some
 simple REST APIs. I have also familiarised myself with version control
 systems such as Git.
-I’m currently learning React, JQuery and JavaScript for frond-end development
+I’m currently learning React, JQuery and JavaScript for frond-end development.
 
-I'm looking to collaborate on any interesting projects utilizing the mentioned technologies
+I'm looking to collaborate on any interesting projects utilizing the mentioned technologies.
+
 I'm reachable at lyubomir.nedelkov@gmail.com
 
 <!---
