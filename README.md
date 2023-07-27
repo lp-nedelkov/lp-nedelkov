@@ -1,11 +1,4 @@
-I'm a detail-oriented and analytical thinker with a passion for
-programming, who has spent the last several months brushing up on
-his core Java, Algorithms and Data structures, SQL and overall coding
-skills. Furthermore, I have been exploring technologies such as
-Maven, SpringBoot and ORM via Spring Data JPA by developing some
-simple REST APIs. I have also familiarised myself with version control
-systems such as Git.
-I’m currently learning React, JQuery and JavaScript for frond-end development.
+I'm a detail-oriented and analytical thinker with a passion for programming. On my current position as Software Engineer I’m working with the following technologies: Java 8, Maven, Jenkins, Nexus, Atlassian apps(Jira, Bitbucket, Confluence), Linux, Bash scripting.
 
 I'm looking to collaborate on any interesting projects utilizing the mentioned technologies.
 
